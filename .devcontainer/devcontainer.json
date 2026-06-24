@@ -12,7 +12,9 @@
     "vscode": {
       "extensions": [
         "ms-python.debugpy",
-        "ms-python.python"
+        "ms-python.python",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "VisualStudioExptTeam.intellicode-api-usage-examples"
       ]
     }
   }
